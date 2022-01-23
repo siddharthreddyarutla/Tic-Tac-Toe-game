@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-game
 It's a static web application, where the technologies like HTML, CSS and Javascript are used to build a game called tic tac toe.
-Here is the explanation: https://en.wikipedia.org/wiki/Tic-tac-toe
+There you go: https://en.wikipedia.org/wiki/Tic-tac-toe
 
 <h1>Outcome</h1>
 
